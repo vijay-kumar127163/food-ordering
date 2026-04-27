@@ -1,4 +1,4 @@
-# shoaibnew
+# vijaynew
 
 Food ordering system (SnackNova project)
 
